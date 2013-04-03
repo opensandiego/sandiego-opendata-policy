@@ -13,7 +13,6 @@ Background Reports
 * http://www.opengovdata.org/home/8principles
 * http://www.sandiegodata.org/reports/data-as-a-public-good/
 * DRAFT SDRDL Municipal Open Data Policies Report
-* https://docs.google.com/document/d/1m5_fSPwB64YUo8oKMAEe9xk0Jw2qfm1kFBvEUwR2_dg/edit
 
 Policies from Other Cities
 ==========================
@@ -42,3 +41,4 @@ References/Links
 * http://codeforsandiego.org/
 * http://www.sandiegodata.org/
 * http://wiki.civiccommons.org/Initiatives
+* https://docs.google.com/document/d/1m5_fSPwB64YUo8oKMAEe9xk0Jw2qfm1kFBvEUwR2_dg/edit
