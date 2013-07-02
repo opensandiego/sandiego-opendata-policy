@@ -22,12 +22,19 @@ Policies from Other Cities
 * Vancouver http://bit.ly/171n1pK Resolution May 1, 2009
 * Portland http://bit.ly/11U9T1R Resolution September 1, 2009
 * San Francisco http://bit.ly/10lNWr6 Executive Order October 1, 2009
-* White House http://1.usa.gov/ZErVoO Directive December 1, 2009
 * San Francisco http://bit.ly/WZPaJI Ordinance October 1, 2010
 * Austin http://bit.ly/ZrLgpq Resolution December 1, 2011
 * New York http://on.nyc.gov/10dUHLW Ordinance March 1, 2012
 * Philadelphia http://1.usa.gov/ZEseQt Executive Order April 1, 2012
 * Chicago http://bit.ly/YWKYXT Executive Order December 1, 2012
+
+Federal Policy
+==============
+
+* White House http://1.usa.gov/ZErVoO Directive December 1, 2009
+* http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-
+* http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
+
 
 City Open Data Portals
 ======================
