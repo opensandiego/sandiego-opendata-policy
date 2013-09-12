@@ -38,3 +38,5 @@ h. "Technical standard" means (1) the common and repeated use of rules, conditio
 i. "Transaction" means any interaction between an agency and any person related to the mission of an agency.
 
 j. "Voluntary consensus standards body" means a domestic or international organization that develops and maintains a technical standard that utilizes a transparent deliberative process, permits the participation of any party, and achieves general consensus, although not necessarily unanimity, of the participating parties, including a process for attempting to resolve any differences in viewpoint.
+
+Add Chief Data Officer - Mayoral Appointed to Implement Policy
